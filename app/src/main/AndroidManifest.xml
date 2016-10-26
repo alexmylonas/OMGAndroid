@@ -3,7 +3,7 @@
     package="gr.alfred.omgandroid" >
 
     <uses-sdk
-        android:maxSdkVersion="23"
+        android:maxSdkVersion="24"
         android:minSdkVersion="17" />
 
     <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />

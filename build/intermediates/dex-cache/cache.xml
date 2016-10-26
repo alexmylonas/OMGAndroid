@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/home/almy/workspace/Android/Projects/OMGAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/almy/workspace/Android/Projects/OMGAndroid/app/build/intermediates/pre-dexed/debug/classes-8285e5ecbd682affb6912f24e95daf15171319f2.jar" />
-    </item>
-    <item
-        jar="/home/almy/workspace/Android/Projects/OMGAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/almy/workspace/Android/Projects/OMGAndroid/app/build/intermediates/pre-dexed/debug/classes-bacd70a108f447244d92d9a9588f87b316b39cc5.jar" />
-    </item>
-    <item
-        jar="/home/almy/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/almy/workspace/Android/Projects/OMGAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-d8cf44e98c5142d4bb297102b51470c30e85631c.jar" />
-    </item>
-    <item
-        jar="/home/almy/workspace/Android/Projects/OMGAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/almy/workspace/Android/Projects/OMGAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-3231df992abd6c87b3e99891c2401ce2e36b5371.jar" />
-    </item>
-    <item
-        jar="/home/almy/workspace/Android/Projects/OMGAndroid/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jar="/home/almy/workspace/android/OMGAndroid/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="/home/almy/workspace/Android/Projects/OMGAndroid/app/build/intermediates/pre-dexed/debug/classes-23567d77d45e801879bb1bc88a8a8b449d5cbe9c.jar" />
+        <dex dex="/home/almy/workspace/android/OMGAndroid/app/build/intermediates/pre-dexed/debug/classes-8a290fb9e5988e0fcb1c4e003a9e9c7ef12bc92d.jar" />
+    </item>
+    <item
+        jar="/home/almy/workspace/android/OMGAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/almy/workspace/android/OMGAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-ec2de4e05a05d86f0aab396d427dc70ff25cc567.jar" />
+    </item>
+    <item
+        jar="/opt/android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/almy/workspace/android/OMGAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-94a3e7dcee37d35257bd1c8032b264d8cf5a0eaa.jar" />
+    </item>
+    <item
+        jar="/home/almy/workspace/android/OMGAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/almy/workspace/android/OMGAndroid/app/build/intermediates/pre-dexed/debug/classes-70ac7851a0dfe6d4235cb749dbd72ce3b6b2c5a1.jar" />
+    </item>
+    <item
+        jar="/home/almy/workspace/android/OMGAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/almy/workspace/android/OMGAndroid/app/build/intermediates/pre-dexed/debug/classes-316c7ac3dc463f3c1e193dee98fcc28092868630.jar" />
     </item>
 
 </items>
